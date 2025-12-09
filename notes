@@ -1,0 +1,7 @@
+Dashboard components:
+- KPI cards: Total Borrowers, Default Rate, Avg Credit Score, Avg EMI Ratio
+- Bar chart: Default Rate by Credit Score Range
+- Heatmap: Income vs Credit Score showing default %
+- Table: Top 10 highest risk borrowers
+
+dashboard_mockup.png is a screenshot created using Excel charts or a diagramming tool to represent Power BI visuals.
